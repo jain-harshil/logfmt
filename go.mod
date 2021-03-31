@@ -1,3 +1,3 @@
-module github.com/go-logfmt/logfmt
+module github.com/jain-harshil/logfmt
 
 go 1.13
